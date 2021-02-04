@@ -1,3 +1,10 @@
+# Tested with Python 3.5.3
+# Python 2 does not have urllib.request (see https://docs.python.org/2/library/urllib2.html)
+# so will not work with Python 2
+
+# Linked to from Wikipedia talk page:
+# https://en.wikipedia.org/wiki/Template_talk:Undisclosed_paid#Proposal_to_add_language_to_the_template_saying_that_the_payer_may_not_be_the_subject_of_the_article
+
 import urllib.request
 import json
 
