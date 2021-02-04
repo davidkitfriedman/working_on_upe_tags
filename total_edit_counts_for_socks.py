@@ -1,3 +1,8 @@
+# Tested with Python 3.5.3 and Python 2.7.13
+
+# Linked to from Wikipedia talk page:
+# https://en.wikipedia.org/wiki/Template_talk:Undisclosed_paid#Proposal_to_add_language_to_the_template_saying_that_the_payer_may_not_be_the_subject_of_the_article
+
 import webbrowser
 import sys
 
